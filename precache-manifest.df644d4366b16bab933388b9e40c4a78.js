@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "ec663933abf0c5740bfe",
-    "url": "/foot_mart/static/css/main.ba8d11c6.chunk.css"
+    "revision": "b6ab74f5618c35d380c7",
+    "url": "/foot_mart/static/css/main.48bf0dd1.chunk.css"
   },
   {
-    "revision": "ec663933abf0c5740bfe",
-    "url": "/foot_mart/static/js/main.ec663933.chunk.js"
+    "revision": "b6ab74f5618c35d380c7",
+    "url": "/foot_mart/static/js/main.b6ab74f5.chunk.js"
   },
   {
-    "revision": "1b67a3af7cabeb80a5b9",
-    "url": "/foot_mart/static/css/1.4febf4b7.chunk.css"
+    "revision": "818d29692f0b092c6817",
+    "url": "/foot_mart/static/css/1.72b0e841.chunk.css"
   },
   {
-    "revision": "1b67a3af7cabeb80a5b9",
-    "url": "/foot_mart/static/js/1.1b67a3af.chunk.js"
+    "revision": "818d29692f0b092c6817",
+    "url": "/foot_mart/static/js/1.818d2969.chunk.js"
   },
   {
     "revision": "faed3e4bfc6ca24659b2",
@@ -22,6 +22,10 @@ self.__precacheManifest = [
   {
     "revision": "aef13526428d2121d46d45253cf48132",
     "url": "/foot_mart/static/media/logo.aef13526.png"
+  },
+  {
+    "revision": "9e13d6c71dab9ecc2f9c09762264e996",
+    "url": "/foot_mart/static/media/item7.9e13d6c7.jpg"
   },
   {
     "revision": "d1876d8d88d166ef29c6e23910e64cff",
@@ -84,12 +88,12 @@ self.__precacheManifest = [
     "url": "/foot_mart/static/media/shose12.5e76d620.jpg"
   },
   {
-    "revision": "af7ae505a9eed503f8b8e6982036873e",
-    "url": "/foot_mart/static/media/fontawesome-webfont.af7ae505.woff2"
-  },
-  {
     "revision": "fee66e712a8a08eef5805a46892932ad",
     "url": "/foot_mart/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  {
+    "revision": "af7ae505a9eed503f8b8e6982036873e",
+    "url": "/foot_mart/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
@@ -104,7 +108,7 @@ self.__precacheManifest = [
     "url": "/foot_mart/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "f58d030114e22f880a45bf0b9cb41846",
+    "revision": "771ac4172d6b9ce439504f88925b269d",
     "url": "/foot_mart/index.html"
   }
 ];
