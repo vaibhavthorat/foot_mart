@@ -1,0 +1,7 @@
+input{
+    text-align: center;
+}
+.form-container{
+    min-height: 340px;
+    margin: auto 350px auto 350px;
+}

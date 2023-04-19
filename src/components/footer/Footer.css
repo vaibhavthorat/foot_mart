@@ -1,0 +1,24 @@
+.Footter-container{
+    min-height: 200px;
+    margin-top: -8px;
+    display: flex;
+    justify-content:space-between;
+    overflow: hidden;
+}
+.item-1 h4{
+    font-size: 20px;
+    color:steelblue;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.item-1 li{
+    color: slategrey;
+    font-size: 16px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.item-1 img{
+    width: 150px;
+}
+.item-1 img:hover{
+    transition: 2s;
+    transform: scale(1.5);
+}

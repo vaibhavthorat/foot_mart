@@ -1,0 +1,75 @@
+.box{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap
+}
+.material-icons{
+    font-size: 2.4em;
+    cursor: pointer;
+}
+.card{
+    width: 300px;
+}
+.card .card-image .card-title{
+    color: black;
+    font-weight: 400
+}
+.cart{
+    margin-top:40px;
+}
+.collection .collection-item{
+    display: flex;
+}
+.collection-item.avatar .title {
+    font-size: 20px;
+    font-weight: 500;
+    color: #ee6e73;
+    display: block;
+    margin-bottom: 20px;
+    
+}
+.collection .collection-item img{
+    width: 150px;
+    margin-right: 25px;
+}
+.item-desc{
+    align-self:center;
+}
+@media screen and (max-width: 600px) {
+            .brand-logo img{
+                    width:200px;
+                    height: 200px;
+            }
+            .nav-wrapper{
+                height: 280px;
+        }
+            .Footter-container{
+                margin-top: -8px;
+                display: flex;
+               min-height: 200px;
+                flex-direction: row;
+                flex-wrap: wrap;
+                justify-content:space-between;
+                overflow: hidden;
+            }
+            .right{
+                display: flex;
+                flex-direction: column; 
+                justify-content: start;               
+            }
+
+            .regiser-container{
+                margin: 0;
+                display: grid;
+                grid-template-columns: 1fr;
+                grid-gap: 10px;
+               min-height: 100px;
+            }
+            input{
+                text-align: center;
+            }
+            .form-container{
+                min-height: 200px;
+                margin: 0;
+            }
+}
