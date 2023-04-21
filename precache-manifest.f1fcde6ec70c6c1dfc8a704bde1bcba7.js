@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b6ab74f5618c35d380c7",
-    "url": "/foot_mart/static/css/main.48bf0dd1.chunk.css"
+    "revision": "a8e4f2b708d1e9f2358e",
+    "url": "/foot_mart/static/css/main.9f2b62b8.chunk.css"
   },
   {
-    "revision": "b6ab74f5618c35d380c7",
-    "url": "/foot_mart/static/js/main.b6ab74f5.chunk.js"
+    "revision": "a8e4f2b708d1e9f2358e",
+    "url": "/foot_mart/static/js/main.a8e4f2b7.chunk.js"
   },
   {
     "revision": "818d29692f0b092c6817",
@@ -88,10 +88,6 @@ self.__precacheManifest = [
     "url": "/foot_mart/static/media/shose12.5e76d620.jpg"
   },
   {
-    "revision": "fee66e712a8a08eef5805a46892932ad",
-    "url": "/foot_mart/static/media/fontawesome-webfont.fee66e71.woff"
-  },
-  {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
     "url": "/foot_mart/static/media/fontawesome-webfont.af7ae505.woff2"
   },
@@ -104,11 +100,15 @@ self.__precacheManifest = [
     "url": "/foot_mart/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
+    "revision": "fee66e712a8a08eef5805a46892932ad",
+    "url": "/foot_mart/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  {
     "revision": "912ec66d7572ff821749319396470bde",
     "url": "/foot_mart/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "771ac4172d6b9ce439504f88925b269d",
+    "revision": "bce439bfb84ebaedba79d3ccef7ecefa",
     "url": "/foot_mart/index.html"
   }
 ];

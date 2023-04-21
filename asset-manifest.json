@@ -1,7 +1,7 @@
 {
-  "main.css": "/foot_mart/static/css/main.48bf0dd1.chunk.css",
-  "main.js": "/foot_mart/static/js/main.b6ab74f5.chunk.js",
-  "main.js.map": "/foot_mart/static/js/main.b6ab74f5.chunk.js.map",
+  "main.css": "/foot_mart/static/css/main.9f2b62b8.chunk.css",
+  "main.js": "/foot_mart/static/js/main.a8e4f2b7.chunk.js",
+  "main.js.map": "/foot_mart/static/js/main.a8e4f2b7.chunk.js.map",
   "static/css/1.72b0e841.chunk.css": "/foot_mart/static/css/1.72b0e841.chunk.css",
   "static/js/1.818d2969.chunk.js": "/foot_mart/static/js/1.818d2969.chunk.js",
   "static/js/1.818d2969.chunk.js.map": "/foot_mart/static/js/1.818d2969.chunk.js.map",
@@ -25,9 +25,9 @@
   "static/media/shose11.jpg": "/foot_mart/static/media/shose11.b0409d94.jpg",
   "static/media/shose12.jpg": "/foot_mart/static/media/shose12.5e76d620.jpg",
   "static/media/font-awesome.min.css": "/foot_mart/static/media/fontawesome-webfont.912ec66d.svg",
-  "static/css/main.48bf0dd1.chunk.css.map": "/foot_mart/static/css/main.48bf0dd1.chunk.css.map",
+  "static/css/main.9f2b62b8.chunk.css.map": "/foot_mart/static/css/main.9f2b62b8.chunk.css.map",
   "static/css/1.72b0e841.chunk.css.map": "/foot_mart/static/css/1.72b0e841.chunk.css.map",
   "index.html": "/foot_mart/index.html",
-  "precache-manifest.df644d4366b16bab933388b9e40c4a78.js": "/foot_mart/precache-manifest.df644d4366b16bab933388b9e40c4a78.js",
+  "precache-manifest.f1fcde6ec70c6c1dfc8a704bde1bcba7.js": "/foot_mart/precache-manifest.f1fcde6ec70c6c1dfc8a704bde1bcba7.js",
   "service-worker.js": "/foot_mart/service-worker.js"
 }
